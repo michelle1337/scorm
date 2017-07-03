@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Splash screen file, saved 7/2/2017 3:03:05 PM using CourseLab 170305 -->
+<splash>
+<settings>
+<showsplash>yes</showsplash>
+<fitwindow>no</fitwindow>
+<fit_small_window>yes</fit_small_window>
+</settings>
+<data>
+<![CDATA[<img src="images/slant_0001_00.jpg" style="position:absolute;left:0px;top:0px;width:1018px;height:682px;"/><div style="position: absolute; box-sizing: border-box; left: 39px; top: 433px; width: 688px; height: 129px;"><p style="COLOR: #0c5097;"><span style="font-family:clear_sans_mediumregular,arial,sans-serif"><span style="font-size:24px">Мессенджер Телеграм</span></span></p></div><div style="position: absolute; left: 767px; top: 642px; width: 250px; height: 39px;"><div style="position: absolute; width: 250px; height: 39px; -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;" title="НАЧАТЬ" ><div id="SL1_TTL_BTN_BTN" style="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 250px; height: 39px; border-style: solid; border-color: #004080; " onmouseover="this.setAttribute('style', this.getAttribute('data-style-over'));" onmouseout="this.setAttribute('style', this.getAttribute('data-style-idle'));" onclick="CL.Start(); return false;" data-style-idle="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 250px; height: 39px; border-style: solid; border-color: #004080; " data-style-over="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 250px; height: 39px; border-style: solid; border-color: #004080; "><div id="SL1_TTL_BTN_BTN_BG" style="position: relative; padding: 0; margin: 0; width: 250px; height: 39px; "><table id="SL1_TTL_BTN_BTN_TABLE" style="border-spacing: 0; width: 250px; height: 39px;"><tr><td id="SL1_TTL_BTN_BTN_TABLE_CONTENT" style="text-align: center; vertical-align: middle; padding: 0; text-shadow: ; width: 250px; height: 39px; font-family: clear_sans_mediumregular, Arial, sans-serif; font-size: 24px; color: #0C5097; font-style: italic;">НАЧАТЬ</td></tr></table></div></div></div></div>]]>
+</data>
+</splash>
